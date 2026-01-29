@@ -10,5 +10,11 @@ Print the RESULT string after all characters are processed
 
 Pseudocode 2
 Ask user to enter first number
-  store users number
+  store users first number
 ask user to enter second number
+  strore users second number
+Add first number + second number
+Get Result
+Print the Result
+
+Pseudocode 3
