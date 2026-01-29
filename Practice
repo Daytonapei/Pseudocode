@@ -1,1 +1,14 @@
-Shar-pei
+Pseudocode 1
+Ask user for phrase
+store that phrase in empty RESULT string
+check each letter in the phrase once
+  if character is lowercase fine its ASCII value
+  add the changed character to the Result string
+otherwise
+  add the character as is to the RESULT string
+Print the RESULT string after all characters are processed
+
+Pseudocode 2
+Ask user to enter first number
+  store users number
+ask user to enter second number
