@@ -30,3 +30,25 @@ print the total
 
 Pseudocode 4
 ask user to enter a maximum whole number
+  if user does not enter a whole number give error message
+generate a random whole number betwwn 0
+print the random whole number
+ask the user if they want another random whole number
+  if yes repeat asking for random wwhole numbers
+else
+  if user enters no Stop program
+
+Pseudocode 5
+set Left count to 0
+set Right count to 0
+repeat it 10 times
+Genreate a random whole number grater that 0
+if the number is divisible by 2 with no remainder print Right
+increase Right count by 1
+otherwise
+print left
+increase left count by 1
+print how many times left occurred
+print how many times Right occurred
+
+
