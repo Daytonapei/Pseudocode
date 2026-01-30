@@ -18,3 +18,15 @@ Get Result
 Print the Result
 
 Pseudocode 3
+set total to 0
+ask user to enter a number
+  if user enters a letter show error message
+add number to total
+ask the user if they want to add more numbers
+  if yes ask again to enter numbers
+else
+  if user sayes answers no stop ask for numbers
+print the total
+
+Pseudocode 4
+ask user to enter a maximum whole number
