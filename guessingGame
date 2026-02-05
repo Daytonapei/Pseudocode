@@ -4,3 +4,8 @@ if the usercontinue equals no
 while usercontinue equals yes
 generate a random whole number between 1 and 100
 set attempts to 7
+while attempts is grater that 0
+ask user to guess a number
+store the number
+
+
