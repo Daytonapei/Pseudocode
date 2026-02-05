@@ -1,11 +1,22 @@
 ask user if they want to play the game
+store answer in usercontinue
 if the usercontinue equals no 
   stop program
 while usercontinue equals yes
-generate a random whole number between 1 and 100
+generate a random number between 1 and 100
 set attempts to 7
-while attempts is grater that 0
-ask user to guess a number
-store the number
-
-
+while attempts is greater that 0
+ask user to guess the number
+store the guess
+if users guess equals winning number
+  print winning message
+  set attempts to 0
+else
+  subtract 1 from attempts
+end while
+if user did not guess the number
+  print losing message
+  print correct number
+ask user if they want to play again
+store answer in usercontinue
+end while
